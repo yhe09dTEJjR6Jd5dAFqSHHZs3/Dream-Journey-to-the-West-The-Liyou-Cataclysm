@@ -10,7 +10,9 @@
 
 游戏：造梦西游之黎尤浩劫篇
 
-网址：https://www.4399.com/flash/254996.htm（已登录账号）
+网址：https://www.4399.com/flash/254996.htm
+
+已登录账号
 
 AI控制鼠标和WSAD（移动）、J（普攻）、K（跳跃）、UIOL（技能）、SPACE（无双）、H（法宝）、Z（坐骑）
 
