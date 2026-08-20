@@ -1,6 +1,8 @@
 交付：一个压缩包，压缩包内只有main.py，main.py内只有运行所必须的代码
 
-运行环境：Windows 11，已安装合适版本Python
+语言：简体中文
+
+操作系统：Windows 11（已安装合适版本Python）
 
 浏览器：Mozilla Firefox, Portable Edition（D:\FirefoxPortable\FirefoxPortable.exe）
 
