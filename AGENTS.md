@@ -6,6 +6,8 @@
 
 浏览器：Mozilla Firefox, Portable Edition（D:\FirefoxPortable\FirefoxPortable.exe）
 
+网址：https://www.4399.com/flash/254996.htm（已登录账号）
+
 AI：清醒→意识到该睡觉了→睡觉→清醒→（以此类推）
 
 AI在客户区控制鼠标
